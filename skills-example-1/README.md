@@ -15,3 +15,5 @@ Agent Skills , example
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/6bd769eb603428
+
