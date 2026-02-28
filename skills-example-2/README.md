@@ -12,6 +12,9 @@ Agent Skills , example
 
 * Github Copilit CLI use
 * Excel export
+
 ***
 ### blog 
+
+https://zenn.dev/knaka0209/scraps/6b5d5f18530348
 
