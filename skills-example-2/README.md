@@ -10,7 +10,7 @@
 
 Agent Skills , example
 
-* GEMINI CLI use
+* Github Copilit CLI use
 * Excel export
 ***
 ### blog 
