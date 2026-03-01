@@ -35,3 +35,4 @@ Agent Skills , RAG Search example
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/a865762526c8a6
