@@ -1,9 +1,8 @@
-import asyncio
+#import asyncio
 import chromadb
 import ollama
 import uuid
 import sys
-from copilot import CopilotClient
 
 
 #
