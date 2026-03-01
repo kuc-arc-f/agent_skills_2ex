@@ -28,3 +28,5 @@ Agent Skills , example
 ***
 ### blog 
 
+https://zenn.dev/link/comments/bcacedfc594d41
+
