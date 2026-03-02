@@ -24,3 +24,4 @@ Agent Skills , discord post
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/5de124c04a3509
