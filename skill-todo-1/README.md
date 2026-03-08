@@ -38,3 +38,4 @@ https://github.com/kuc-arc-f/rust_5ex/tree/main/todo_1
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/33a813214de3d6
