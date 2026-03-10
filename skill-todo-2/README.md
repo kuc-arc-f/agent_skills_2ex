@@ -15,7 +15,7 @@ Agent Skills , todo
 * GoLang app use
 
 ***
-### todo-app , Rust
+### todo-app , GoLang
 
 https://github.com/kuc-arc-f/golang_3ex/tree/main/skill-sqlite-1
 
