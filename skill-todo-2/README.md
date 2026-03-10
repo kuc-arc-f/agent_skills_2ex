@@ -38,3 +38,5 @@ https://github.com/kuc-arc-f/golang_3ex/tree/main/skill-sqlite-1
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/5ba4c740d40982
+
