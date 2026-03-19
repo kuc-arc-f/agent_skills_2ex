@@ -39,3 +39,6 @@ https://gist.github.com/kuc-arc-f/88b6d0e85cccbff9f5a0c9acfeacc546
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/512c9afc3f8554
+
+
