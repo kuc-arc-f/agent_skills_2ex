@@ -40,3 +40,5 @@ https://github.com/kuc-arc-f/cpp_1ex/tree/main/http_2
 ### blog 
 
 
+https://zenn.dev/knaka0209/scraps/dffb6784475bb9
+
