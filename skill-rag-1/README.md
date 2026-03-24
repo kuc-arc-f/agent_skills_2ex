@@ -31,3 +31,4 @@ https://github.com/kuc-arc-f/cpp_2ex/tree/main/rag_1
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/9c41482e550b74
