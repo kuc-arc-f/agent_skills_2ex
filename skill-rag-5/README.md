@@ -33,3 +33,5 @@ export DATABASE_URL=/home/user123/sqlite-vec-3/example.db
 ***
 ### blog 
 
+https://zenn.dev/knaka0209/scraps/e9e238e6a011a8
+
